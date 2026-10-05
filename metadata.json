@@ -1,0 +1,6 @@
+{
+  "name": "سفن كلين 7 Clean | خدمات تنظيف المنازل والمصانع وما بعد التشطيب",
+  "description": "شركة سفن كلين 7 Clean الرائدة في خدمات تنظيف المنازل، الفلل، المصانع، الباريكات، والمباني بعد التشطيب، وتنظيف الكنب والسجاد بالبخار في الأردن.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
